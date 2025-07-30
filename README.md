@@ -5,7 +5,7 @@
 感谢原作者：[dw-dengwei/daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced)  的项目  
 
 
-[![.github/workflows/run by keywords.yml](https://github.com/dangerwolf/daily-arXiv-ai-enhanced/actions/workflows/run%20by%20keywords.yml/badge.svg?branch=By-KEYWORDS)](https://github.com/dangerwolf/daily-arXiv-ai-enhanced/actions/workflows/run%20by%20keywords.yml)
+[![arXiv-daily-ai-enhanced-by-keywords](https://github.com/dangerwolf/Daily-arXiv/actions/workflows/run%20by%20keywords.yml/badge.svg)](https://github.com/dangerwolf/Daily-arXiv/actions/workflows/run%20by%20keywords.yml)
 
 # Custom List
 
